@@ -1,0 +1,62 @@
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+body{
+  background: url('https://c4.wallpaperflare.com/wallpaper/148/392/948/1920x1080-px-books-interior-design-interiors-knowledge-library-shelves-anime-pokemon-hd-art-wallpaper-preview.jpg');
+  background-size: cover;
+}
+
+.wrapper{
+  overflow-x: hidden;
+  overflow-y: auto;   
+  color: white; 
+}
+
+.wrapper h1{
+  margin-top: 30px;
+  text-align: center;
+}
+.wrapper .view-container{
+  width: 600px;    
+  background-color: #e4e4e4;
+  margin: 20px auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  color: black;
+}
+
+.wrapper .form-container{
+  width: 500px;
+  height: 340px;
+  background-color: #e4e4e4;
+  margin: 20px auto;
+  padding: 20px; 
+  color: black;  
+}
+
+.wrapper .form-container .btn{
+  width: 100%;   
+}
+.wrapper p{
+  text-align: center;
+  margin-top: 7px;
+  font-weight: bold;
+}
+
+.wrapper .main{
+  display: flex;
+  margin-top: 20px;
+  align-items: center;
+}
+
+.delete-btn{
+  color: red;
+  cursor: pointer;
+}
+
+tbody{
+  margin-top: 25px;
+}
