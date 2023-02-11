@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fitness_club_bullseye/static/css/main.0fc8585c.css",
+    "main.js": "/fitness_club_bullseye/static/js/main.264f7f07.js",
+    "index.html": "/fitness_club_bullseye/index.html",
+    "main.0fc8585c.css.map": "/fitness_club_bullseye/static/css/main.0fc8585c.css.map",
+    "main.264f7f07.js.map": "/fitness_club_bullseye/static/js/main.264f7f07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fc8585c.css",
+    "static/js/main.264f7f07.js"
+  ]
+}
